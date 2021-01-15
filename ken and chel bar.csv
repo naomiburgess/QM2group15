@@ -1,0 +1,69 @@
+full_id,osm_id,osm_type,addr_house,addr_stree,amenity,name,addr_city,addr_postc
+n302397766,"302397766",node,"35",Walton Street,bar,The Enterprise,,
+n364655204,"364655204",node,"18",Farm Lane,bar,The Lazy Fox,,
+n387123683,"387123683",node,"19",Notting Hill Gate,bar,Tequila Tex-Mex,,
+n452980469,"452980469",node,15-19,Goldhawk Road,bar,BrewDog Shepherds Bush,London,W12 8QQ
+n452980474,"452980474",node,,,bar,Green Room,,
+n772052353,"772052353",node,"374",North End Road,bar,Sugar hut,,
+n1360505700,"1360505700",node,"140",Gloucester Road,bar,Olives Bar,,
+n1368258354,"1368258354",node,316-318,King's Road,bar,JuJu,,SW3 5UH
+n1374259772,"1374259772",node,"490",Fulham Road,bar,The Redback,,SW6 5NH
+n1620855355,"1620855355",node,,,bar,The Churchill Bar,,
+n1903127186,"1903127186",node,,,bar,Rumi,,
+n2060616134,"2060616134",node,"1",Wood Lane,bar,The Albertine,,W12 7DP
+n2343155744,"2343155744",node,"4",Sheldon Square,bar,The Union Bar & Grill,London,W2 6EZ
+n2366231797,"2366231797",node,14a,Shepherds Bush Road,bar,be at one,,
+n2492718707,"2492718707",node,Unit 1,West End Quay,bar,Brewdog Paddington,,W2 1JX
+n2558617434,"2558617434",node,"50",Blandford Street,bar,Purl,,
+n2714325413,"2714325413",node,"33",Parkgate Road,bar,Doodle Bar,,SW11 4NP
+n3034935400,"3034935400",node,,,,,,
+n3527007903,"3527007903",node,"27",Spring Street,bar,Cork and Bottle,London,W2 1JA
+n3625978618,"3625978618",node,,,,,,
+n3625978621,"3625978621",node,,,,,,
+n3625978624,"3625978624",node,,,,,,
+n3628529355,"3628529355",node,,,,,,
+n3740809968,"3740809968",node,"4",Clarendon Terrace,bar,LV lounge,,
+n3790295357,"3790295357",node,"28",Hammersmith Broadway,bar,Belushi's,London,
+n3790320757,"3790320757",node,,Shepherds Bush Road,bar,Smith's Cocktail Bar,,
+n3796992525,"3796992525",node,,,bar,Nell's Jazz & Blues,,
+n4669839193,"4669839193",node,310c,Earl's Court Road,bar,Evans & Peel Detective Agency,,SW5 9BA
+n4701327856,"4701327856",node,,,bar,Cabin Bar,,
+n5071317285,"5071317285",node,"61",Gloucester Road,bar,Polo Bar,,
+n5358972067,"5358972067",node,,,bar,Blue Bar,,
+n5501126153,"5501126153",node,,,bar,Jak’s,,
+n5732244222,"5732244222",node,,,bar,Barts,,
+n5895010908,"5895010908",node,"86",Queensway,bar,Beachcomber,,W2 3RR
+n6050608743,"6050608743",node,,,bar,Bar 190,,
+n6080377160,"6080377160",node,,,bar,Puttschack,,
+n6222730323,"6222730323",node,"195",Wood Lane,bar,W12 Studios,London,W12 7FP
+n6298999730,"6298999730",node,"88",Wigmore Street,bar,Joe & The Juice,,W1U 3RB
+n6329861985,"6329861985",node,,Duke Street,bar,Seedlip Pop up bar (Closed),,
+n6353763693,"6353763693",node,,,bar,Nirvana Bar,,
+n6541006986,"6541006986",node,,,bar,Metropolitan Bar,,
+n6602705122,"6602705122",node,,,bar,Elgin,,
+n6654658786,"6654658786",node,6a,Sheldon Square,bar,Vagabond,,
+n6854773171,"6854773171",node,"4",Kingdom Street,bar,HUCKSTER,,
+n6900663648,"6900663648",node,,,bar,Serpentine Coffee House,,
+n6946467432,"6946467432",node,,,bar,Riley's Sports bar,,
+n7083390802,"7083390802",node,125-127,Westbourne Park Road,bar,The Cheshire Cat,,
+n7083636098,"7083636098",node,"69",Westbourne Park Road,bar,cépage[s],,
+n7138194618,"7138194618",node,"181",Westbourne Grove,bar,Juicebaby,,
+n7157186451,"7157186451",node,"283",Westbourne Grove,bar,Negozio Classica,,
+n7160855985,"7160855985",node,"1",Kensington Court,bar,The Stables Bar,,
+n7175641509,"7175641509",node,"140",Portobello Road,bar,140 Portobello,,
+n7176852708,"7176852708",node,"177",Portobello Road,bar,Trailer Happiness,,
+n7218160943,"7218160943",node,6-8,All Saints Road,bar,The Little Yellow Door,,
+n7226161458,"7226161458",node,"265",Portobello Road,bar,Mau Mau Bar,,
+n7259912747,"7259912747",node,"48",Southern Row,bar,The Chilled Eskimo,,
+n7285393687,"7285393687",node,,,bar,Hagen Chelsea,,
+n7309437877,"7309437877",node,"274",Latimer Road,bar,Ariadne's Nectar Bar,,
+n7371478910,"7371478910",node,"2",101 Wood Lane,bar,White City House,London,W12 7FR
+n7519079337,"7519079337",node,"106",Kensington High Street,bar,Piano,,
+n7591017506,"7591017506",node,"100",Cromwell Road,bar,Kens Bar & Garden,,
+n7857880041,"7857880041",node,"158",Old Brompton Road,bar,Eclipse,London,SW5 0BA
+n7904778310,"7904778310",node,"30",Old Brompton Road,bar,Janet’s Bar,,
+n8067670279,"8067670279",node,87-89,Walton Street,bar,Jak's Bars,,
+n8067755496,"8067755496",node,111-113,Walton Street,bar,Eclipse,,
+n8068548995,"8068548995",node,"100",Draycott Avenue,bar,Bottles Chelsea,,
+n8123358074,"8123358074",node,"138",Fulham Road,bar,Kosmopol,,
+n8241082906,"8241082906",node,"279",Fulham Road,bar,Wine Not?,,
